@@ -20,7 +20,8 @@ In any case user are using different platform then user need to change it accord
 Run the backend application check whether the server is running sucessfully or not.
 
 **#Front-end
-For Front-end go on through the link below user can download it in users own Google Drive.
+go on through the link below user can download it in users own Google Drive otherwise their will be a Front-end-Ecommerce file is their,
+can open and visit the link.
 https://drive.google.com/drive/folders/1viWI4a9qjkc_Cfo80qPk3uql8FlpaSgF?usp=drive_link
 Go on through the Link**
 
