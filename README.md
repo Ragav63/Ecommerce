@@ -76,3 +76,4 @@ ng --version or ng -v  --// is the command for checking the version or checking 
 
 
 - That's it if in case any queries pin it.
+- 📫 How to reach me **arulragavendiran@gmail.com**
